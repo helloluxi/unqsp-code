@@ -1,3 +1,6 @@
 numpy
 matplotlib
 scienceplots
+torch
+pytest
+tqdm

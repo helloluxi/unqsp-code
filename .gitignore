@@ -1,4 +1,10 @@
+.claude/
+.memory/
+.pytest_cache/
+__pycache__/
+
 *.pdf
 *.png
 *.jpg
-quatro_scaling.ipynb
+
+CLAUDE.md
